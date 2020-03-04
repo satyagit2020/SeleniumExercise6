@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-02-27T10:59:23 GMT" name="Default suite" finished-at="2020-02-27T10:59:42 GMT" duration-ms="19271">
+    <groups>
+    </groups>
+    <test started-at="2020-02-27T10:59:23 GMT" name="Default test" finished-at="2020-02-27T10:59:42 GMT" duration-ms="19271">
+      <class name="widgetshowcase.widgetApplication">
+        <test-method signature="selectTab()[pri:0, instance:widgetshowcase.widgetApplication@49c386c8]" started-at="2020-02-27T10:59:23 GMT" name="selectTab" finished-at="2020-02-27T10:59:42 GMT" duration-ms="19176" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectTab -->
+      </class> <!-- widgetshowcase.widgetApplication -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
